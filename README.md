@@ -1,2 +1,2 @@
-# odin-js-12
-The Odin Project - JS Course Ex12: Battleships
+# The Odin Project - JS Course Exercise 12
+## Battleships

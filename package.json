@@ -1,0 +1,14 @@
+{
+    "name": "odin-js-12",
+    "prettier": {
+        "semi": true,
+        "singleQuote": true,
+        "printWidth": 80,
+        "tabWidth": 4
+    },
+    "devDependencies": {
+        "eslint": "^9.34.0",
+        "globals": "^16.3.0",
+        "prettier": "^3.6.2"
+    }
+}
